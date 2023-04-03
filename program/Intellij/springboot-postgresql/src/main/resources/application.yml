@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /admin
+  port: 8089
+spring:
+  application:
+    name: Furlough Training Exercise

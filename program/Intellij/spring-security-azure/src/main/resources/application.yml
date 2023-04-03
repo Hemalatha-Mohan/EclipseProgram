@@ -1,0 +1,7 @@
+azure:
+  activedirectory:
+    tenant-id: becaaa76-e4e8-4554-97b6-2b4523921e1f
+    client-id: 0d7832d1-94e6-4dbc-bb1e-f2e9cf7070cc
+    client secret: WcY8Q~hMsQHwVL1QtfzpkvXG1dU5-5LlvwgVPbhE
+    user-group:
+      allowed-groups: group1
